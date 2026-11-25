@@ -1,0 +1,4 @@
+:HL["/portfolio/_next/static/media/2bcd4b1f8f3a3e9f.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/css/9c0d00af5364c22a.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"UJfcX8rrKS9KRKPka_mTP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
